@@ -1,0 +1,12 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Border",
+  "accentColor": "#e5973e",
+  "interfaceFontFamily": "Lexend",
+  "textFontFamily": "Lexend",
+  "monospaceFontFamily": "Fira Code",
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "baseFontSize": 15
+}

@@ -1,0 +1,24 @@
+{
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Legal",
+    "landscape": true,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "propertiesInDocument": "visible",
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "assets",
+  "readableLineLength": true
+}
