@@ -28,3 +28,6 @@ contoh
 
 ![[WhatsApp Image 2024-10-11 at 11.40.54_c2b374d8.jpg]]
 PUSINGG WOY
+
+---
+
