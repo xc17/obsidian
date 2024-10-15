@@ -1,0 +1,23 @@
+---
+aliases:
+  - One Ballad - 18 Nov 2023
+  - ""
+  - Earth care not of whom thyself see,
+  - ""
+  - She sang not knowing whatmade to be.Thou thyself art onedefine all or everything,
+  - ""
+  - To put a thing on every living being.
+  - ""
+  - "\"Faith's a luxury none can afford-but a grasp"
+  - ""
+  - so cheap to let go.'
+  - ""
+  - A step into it set a hellloose.
+  - ""
+  - There sit a bard as a rose in the sea.'Roundall, yet void surrounds.
+  - ""
+  - Off the glare to the glass, one ballad he brought.
+  - And with me or not with me, and I'm but one nor I am none."
+tags:
+  - Keep/Archived
+---

@@ -6,16 +6,16 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiExcalidraw",
+      "SiGoogledrive",
+      "SiGooglekeep",
+      "SiCodacy",
+      "RiGovernmentFill",
+      "TiCodeDots",
       "LiBrain",
       "RiBox2Line",
       "LiQuote",
-      "FasCode",
-      "FasFlask",
-      "LiAtom",
-      "TiMathFunction",
-      "LiWind",
-      "⚗",
-      "🔢"
+      "FasCode"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -41,7 +41,6 @@
   "DEBATE": "LiSpeech",
   "OSIS": "LiBuilding2",
   "Poett": "LiVenetianMask",
-  "SHITS": "LiAtom",
   "Poett/Endeavour": "LiMoon",
   "OSIS/me": "LiOption",
   "OSIS/SEKRE 245": "LiNewspaper",
@@ -49,10 +48,24 @@
   "CODE/PORTALS.md": "LiSchool",
   "CODE/ORGANIPTYC.md": "LiFolderGit2",
   "SCHOOLS": "LiGraduationCap",
-  "SCHOOLS/MATLAN.md": "TiMathFunction",
-  "SCHOOLS/CHEMISTRY.md": "FasFlask",
-  "SCHOOLS/Physics.md": "LiAtom",
   "SHITS/Quotes.md": "LiQuote",
+  "CODE/PROJECT IDEAS.md": "LiBrain",
+  "SCHOOLS/CHEMISTRY": {
+    "iconName": "FasFlask",
+    "iconColor": "#8341b9"
+  },
+  "CODE/C++.md": "TiCodeDots",
+  "SCHOOLS/PPKN.md": "RiGovernmentFill",
+  "DAYS": "SiCodacy",
+  "SCHOOLS/MATLAN": {
+    "iconName": "TiMathFunction",
+    "iconColor": "#ff5c5c"
+  },
+  "SCHOOLS/PHYSICS": {
+    "iconName": "LiAtom",
+    "iconColor": "#288a60"
+  },
   "assets": "RiBox2Line",
-  "CODE/PROJECT IDEAS.md": "LiBrain"
+  "GKeep": "SiGoogledrive",
+  "DRAWINGS": "SiExcalidraw"
 }

@@ -4,31 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "01a19cee1b31b038",
+        "id": "94adfd9a15d76b17",
         "type": "tabs",
         "children": [
           {
-            "id": "ad844940917256b0",
+            "id": "5290dd05db54d501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCHOOLS/CHEMISTRY.md",
+                "file": "SCHOOLS/MATWA/Fungsi Komposisi.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0ceb5facc21fa204",
+            "id": "de1b01fc5e9cc3fb",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SCHOOLS/CHEMISTRY/Termokimia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36b356bc4a2455d4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DRAWINGS/Ex - Termokimia 2.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 334.51103591918945
   },
   "right": {
     "id": "ef07f5d37b83b25c",
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCHOOLS/CHEMISTRY.md",
+                "file": "SCHOOLS/MATWA/Fungsi Komposisi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCHOOLS/CHEMISTRY.md",
+                "file": "SCHOOLS/MATWA/Fungsi Komposisi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCHOOLS/CHEMISTRY.md"
+                "file": "SCHOOLS/MATWA/Fungsi Komposisi.md"
               }
             }
           },
@@ -151,72 +164,76 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "audio-recorder:Start/stop recording": false,
-      "switcher:Open quick switcher": false,
+      "obsidian-textgenerator-plugin:Generate Text!": true,
       "graph:Open graph view": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
-      "workspaces:Manage workspace layouts": false,
-      "terminal:Open terminal": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97c9d5d866d0b7d5",
+  "active": "d8996797af17a4da",
   "lastOpenFiles": [
-    "SCHOOLS/CHEMISTRY.md",
-    "SCHOOLS/MATLAN.md",
-    "README.md",
-    "Untitled",
-    "SCHOOLS/Physics.md",
-    "textgenerator/templates/default/simplify.md",
-    "textgenerator/templates/default/getTags.md",
-    "textgenerator/templates/default/getOutline.md",
-    "textgenerator/templates/default/getEmailNeg.md",
-    "CODE/PORTALS.md",
-    "textgenerator/templates/default/getTitles.md",
-    "textgenerator/templates/default/summarizeLarge.md",
-    "textgenerator/templates/default/rewrite.md",
-    "textgenerator/templates/default/getEmailPos.md",
-    "textgenerator/templates/default/getIdeas.md",
-    "textgenerator/templates/default/summarize.md",
-    "textgenerator/templates/default/getParagraph.md",
-    "textgenerator/templates/default",
-    "textgenerator/templates",
-    "textgenerator",
-    "CODE/ORGANIPTYC.md",
-    "OSIS/me/Elo 2024/Step 2 - Naskah Video Pendalaman Diri OSIS 245.md",
-    "CODE/PROJECT IDEAS.md",
-    "OSIS/SEKRE 245/Struktur Ke-Sekretariatan & Sistem Pengarsipan 245.md",
-    "OSIS/me/SMARAK 24/Jobdesk Divisi ACARA.md",
-    "OSIS/me/SMARAK 24/TM/String Undian Urutan Kelas.md",
-    "OSIS/me/SMARAK 24/TM/String Undian Tema Parade.md",
-    "OSIS/me/SMARAK 24/TM/CONTEXT.md",
-    "DEBATE/Motions.md",
-    "assets/Recording 20241013152230.webm",
+    "SCHOOLS/CHEMISTRY/Termokimia 2.md",
+    "SCHOOLS/MATWA/Fungsi Komposisi.md",
+    "SCHOOLS/MATWA",
+    "SCHOOLS/CHEMISTRY/Termokimia.md",
+    "DRAWINGS/Ex - Termokimia 2.md",
+    "DRAWINGS",
+    "assets/WhatsApp Image 2024-10-15 at 07.45.05_e2343f87.jpg",
+    "GKeep/2023-11-10T13_35_14.616+07_00.md",
+    "GKeep/2023-11-10T13_35_13.295+07_00.md",
+    "GKeep/2023-11-10T13_35_11.661+07_00.md",
+    "GKeep/2023-11-16T08_25_27.491+07_00.md",
+    "GKeep/2023-11-17T08_05_28.531+07_00.md",
+    "GKeep/Dandelion_.md",
+    "GKeep/Demokrasi_.md",
+    "GKeep/Dream.md",
+    "GKeep/Embun Nafas.md",
+    "GKeep/Gita Nuswapada_.md",
+    "GKeep/NAMES.md",
+    "GKeep/Lily of the Valley_.md",
+    "GKeep/LIST PROGJA OSIS-PK 234.md",
+    "GKeep/List pembekalan PTA.md",
+    "GKeep/Lily of the Valley - Translated_.md",
+    "GKeep/Notulensi Campus EXPO 2.md",
+    "GKeep/pembekalan pta.md",
+    "GKeep/ORASI.md",
+    "GKeep/PENDIDIKAN PANCASILA_.md",
+    "GKeep/SONGS 2 SING.md",
+    "GKeep/Sosialisasi P5.md",
+    "GKeep/Styx Riverbed.md",
+    "GKeep/Assets/1903bea8a72.a8a72d5b24964bf1.png",
+    "GKeep/Assets/191c46f2bdc.89566376e27d195a.png",
+    "GKeep/Assets",
+    "GKeep",
+    "assets/WhatsApp Image 2024-10-14 at 22.10.58_9bbca113 2.jpg",
+    "assets/WhatsApp Image 2024-10-14 at 22.10.58_9bbca113 1.jpg",
+    "assets/WhatsApp Image 2024-10-14 at 22.10.58_9bbca113.jpg",
+    "Excalidraw",
+    "OSIS/ARSENTRA",
+    "SCHOOLS/PHYSICS",
+    "SCHOOLS/MATLAN",
+    "DAYS",
+    "SCHOOLS/CHEMISTRY",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "assets/IMG-20241010-WA0014.jpg",
     "assets/WhatsApp Image 2024-10-11 at 09.29.26_8cb3665e.jpg",
     "assets/IMG-20241010-WA0012.jpg",
-    "assets",
-    "assets/WhatsApp Image 2024-10-11 at 11.40.54_c2b374d8.jpg",
-    "assets/IMG-20241010-WA0016.jpg",
-    "assets/IMG-20241010-WA0015.jpg",
-    "SCHOOLS",
-    "CODE",
-    "Recording 20241007192152.webm",
-    "OSIS/SEKRE 245"
+    "assets/WhatsApp Image 2024-10-11 at 11.40.54_c2b374d8.jpg"
   ]
 }

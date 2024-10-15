@@ -1,12 +1,12 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Border",
-  "accentColor": "#e5973e",
+  "cssTheme": "Prism",
+  "accentColor": "#ff6857",
   "interfaceFontFamily": "Lexend",
   "textFontFamily": "Lexend",
   "monospaceFontFamily": "Fira Code",
   "baseFontSizeAction": true,
   "showViewHeader": true,
   "nativeMenus": false,
-  "baseFontSize": 15
+  "baseFontSize": 18
 }

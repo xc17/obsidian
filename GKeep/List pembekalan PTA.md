@@ -1,0 +1,40 @@
+---
+tags:
+  - Keep/Color/Teal
+  - Keep/Archived
+  - Keep/Label/📑
+---
+
+
+- [X] Nametag 15x20cm
+- [X] Foto formal seragam pramuka lengkap (3x4) bg merah
+- [X] Karton kuning
+- [X] Tali kur merah
+- [X] Laminating
+- [X] - barang bawaan pribadi
+- [X] 1. SPL SMP
+- [X] 2. Baju Olahraga SMP
+- [X] 3. Pakaian bebas non-piama
+- [X] 4. Sepatu hitam bertali
+- [X] 5. Kaos kaki hitam ½ betis bertali
+- [X] 7. Jam tangan
+- [X] 8. Sendal jepit Swallow merah putih
+- [X] 9. Alat sholat (sarung, sajadah) dimasukkan kedalam totbag
+- [X] 10. Alat mandi (sabun, shampo, sikat gigi, pasta gigi)
+- [X] 11. Pakaian dalam
+- [X] 12. Dasi sma
+- [X] 13. Sofel/Autan
+- [X] 14. Obat-obatan pribadi
+- [X] 15. Buku tulis + atk
+- [X] 16. Senter
+- [X] 17. Alat makan (piring plastik, sendok tunblr)
+- [X] 19. Sarung
+- [X] 18. Jaket
+- [X] 19. Deodorant
+- [X] 20. Parfum (per sangga)
+- [X] 23. Roti surya 4 buah
+- [X] 26. Bambu 2m
+- [X] 24. Susu 2 kotak 250ml
+- [X] 25. Bambu 5m
+- [X] 25. Tali tambang Pramuka 10m
+- [X] 26. Trashbag
