@@ -2,9 +2,9 @@
   "spellcheck": true,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "Legal",
-    "landscape": true,
-    "margin": "2",
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
     "downscalePercent": 100
   },
   "promptDelete": false,

@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🌟",
       "SiExcalidraw",
       "SiGoogledrive",
       "SiGooglekeep",
@@ -14,8 +15,7 @@
       "TiCodeDots",
       "LiBrain",
       "RiBox2Line",
-      "LiQuote",
-      "FasCode"
+      "LiQuote"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -39,7 +39,7 @@
     "debugMode": false
   },
   "DEBATE": "LiSpeech",
-  "OSIS": "LiBuilding2",
+  "OSIS": "🌟",
   "Poett": "LiVenetianMask",
   "Poett/Endeavour": "LiMoon",
   "OSIS/me": "LiOption",

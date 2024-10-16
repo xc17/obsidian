@@ -4,41 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "94adfd9a15d76b17",
+        "id": "bfd974dfd4cedf22",
         "type": "tabs",
         "children": [
           {
-            "id": "5290dd05db54d501",
+            "id": "068c77f25f3685e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCHOOLS/MATWA/Fungsi Komposisi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de1b01fc5e9cc3fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCHOOLS/CHEMISTRY/Termokimia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36b356bc4a2455d4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "DRAWINGS/Ex - Termokimia 2.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -107,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCHOOLS/MATWA/Fungsi Komposisi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCHOOLS/MATWA/Fungsi Komposisi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SCHOOLS/MATWA/Fungsi Komposisi.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,13 +157,33 @@
   },
   "active": "d8996797af17a4da",
   "lastOpenFiles": [
+    "OSIS/LDKS 24/Pembekalan Peserta LDKS 2024.md",
+    "OSIS/LDKS 24/TATA TERTIB + Peraturan PENTING.md",
+    "OSIS/LDKS 24/Ex2024-10-15 20.45.09.excalidraw.md",
+    "Untitled.md",
+    "OSIS/LDKS 24/MY CHECKLISTS.md",
+    "assets/Pasted image 20241015204936.png",
+    "assets/image_2.png",
+    "assets/image_1.png",
+    "assets/image_0.png",
+    "assets/image.png",
+    "OSIS/LDKS 24",
     "SCHOOLS/CHEMISTRY/Termokimia 2.md",
-    "SCHOOLS/MATWA/Fungsi Komposisi.md",
-    "SCHOOLS/MATWA",
     "SCHOOLS/CHEMISTRY/Termokimia.md",
-    "DRAWINGS/Ex - Termokimia 2.md",
-    "DRAWINGS",
     "assets/WhatsApp Image 2024-10-15 at 07.45.05_e2343f87.jpg",
+    "assets/WhatsApp Image 2024-10-14 at 22.10.58_9bbca113 1.jpg",
+    "assets/WhatsApp Image 2024-10-14 at 22.10.58_9bbca113.jpg",
+    "assets/IMG-20241010-WA0015.jpg",
+    "assets/IMG-20241010-WA0016.jpg",
+    "CODE/PROJECT IDEAS.md",
+    "CODE/PORTALS.md",
+    "CODE/ORGANIPTYC.md",
+    "CODE/C++.md",
+    "DAYS/2024 Oct 14th - 17.10pm.md",
+    "SCHOOLS/MATWA/Fungsi Komposisi.md",
+    "DRAWINGS/Ex - Termokimia 2.md",
+    "SCHOOLS/MATWA",
+    "DRAWINGS",
     "GKeep/2023-11-10T13_35_14.616+07_00.md",
     "GKeep/2023-11-10T13_35_13.295+07_00.md",
     "GKeep/2023-11-10T13_35_11.661+07_00.md",
@@ -206,34 +196,14 @@
     "GKeep/Gita Nuswapada_.md",
     "GKeep/NAMES.md",
     "GKeep/Lily of the Valley_.md",
-    "GKeep/LIST PROGJA OSIS-PK 234.md",
-    "GKeep/List pembekalan PTA.md",
-    "GKeep/Lily of the Valley - Translated_.md",
-    "GKeep/Notulensi Campus EXPO 2.md",
-    "GKeep/pembekalan pta.md",
-    "GKeep/ORASI.md",
-    "GKeep/PENDIDIKAN PANCASILA_.md",
-    "GKeep/SONGS 2 SING.md",
-    "GKeep/Sosialisasi P5.md",
-    "GKeep/Styx Riverbed.md",
-    "GKeep/Assets/1903bea8a72.a8a72d5b24964bf1.png",
-    "GKeep/Assets/191c46f2bdc.89566376e27d195a.png",
     "GKeep/Assets",
     "GKeep",
-    "assets/WhatsApp Image 2024-10-14 at 22.10.58_9bbca113 2.jpg",
-    "assets/WhatsApp Image 2024-10-14 at 22.10.58_9bbca113 1.jpg",
-    "assets/WhatsApp Image 2024-10-14 at 22.10.58_9bbca113.jpg",
     "Excalidraw",
     "OSIS/ARSENTRA",
     "SCHOOLS/PHYSICS",
     "SCHOOLS/MATLAN",
     "DAYS",
-    "SCHOOLS/CHEMISTRY",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "assets/IMG-20241010-WA0014.jpg",
-    "assets/WhatsApp Image 2024-10-11 at 09.29.26_8cb3665e.jpg",
-    "assets/IMG-20241010-WA0012.jpg",
-    "assets/WhatsApp Image 2024-10-11 at 11.40.54_c2b374d8.jpg"
+    "Untitled.canvas"
   ]
 }

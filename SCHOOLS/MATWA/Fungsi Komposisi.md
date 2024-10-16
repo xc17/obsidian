@@ -68,10 +68,14 @@ Maka:
 $$
 g(u) = \frac{u - 3}{2} - \frac{6}{2} = \frac{u - 9}{2}
 $$
+$$
+g(x) = \frac{x - 9}{2}
+$$
 
 ---
 
-### Hasilnya:
+### Hasil:
 1. $g(x) = 5x - 8$
 2. $g(x) = \frac{x - 9}{2}$
 
+---
