@@ -7,63 +7,59 @@ tags:
 ---
 ### **Hari Ke 1**
 **Pakaian (_yang digunakan_):**
-- [ ] OSIS Lengkap (dasi, ikat pinggang, kaos kaki putih setengah betis, sepatu hitam bertali, no almet)
+- [x] OSIS Lengkap (dasi, ikat pinggang, kaos kaki putih setengah betis, sepatu hitam bertali, no almet)
 
 ##### **Barang Bawaan :**
-- [ ] Surat Izin Orang Tua
-- [ ] Surat Kesepakatan
-- [ ] Buku Dan Alat Tulis
-- [ ] Alat Sholat
-- [ ] Sendal Jepit Biru (pa) & Merah (pi)
-- [ ] Jam tangan (yang berfungsi, bukan smartwatch)
-- [ ] Parfum : Zara Orchid 15ml
-- [ ] Tumbler Minum
-- [ ] Bekal (Nasi, Lauk, Sayur, Buah)
-- [ ] Susu ultramilk 200ml rasa bebas, Better 1 buah
-- [ ] Vitamin / suplemen
-- [ ] Obat-obat Pribadi
+- [x] Surat Izin Orang Tua
+- [x] Surat Kesepakatan
+- [x] Buku Dan Alat Tulis
+- [x] Alat Sholat
+- [x] Sendal Jepit Biru (pa) & Merah (pi)
+- [x] Jam tangan (yang berfungsi, bukan smartwatch)
+- [x] Parfum : Zara Orchid 15ml
+- [x] Tumbler Minum
+- [x] Bekal (Nasi, Lauk, Sayur, Buah)
+- [x] Susu ultramilk 200ml rasa bebas, Better 1 buah
+- [x] Vitamin / suplemen
+- [x] Obat-obat Pribadi
 
 ---
 
 ### **Hari Ke 2 dan 3**
 
 ##### **Berangkat menggunakan :**
-- [ ] Seragam olahraga SMANSA lengkap
-- [ ] Hijab hitam
-- [ ] Kaos kaki hitam
-- [ ] Sepatu hitam bertali (bukan pantofel)
-- [ ] Jam tangan yang berfungsi (bukan smartwatch)
+- [x] Seragam olahraga SMANSA lengkap
+- [x] Kaos kaki hitam
+- [x] Sepatu hitam bertali (bukan pantofel)
+- [x] Jam tangan yang berfungsi (bukan smartwatch)
 
 ##### **Barang Bawaan :**
 **Tas RANSEL 1**
-- [ ] Handuk kecil (merk good morning)
-- [ ] Topi OSIS
-- [ ] Buku dan ATK
-- [ ] Seragam kotak-kotak (tanpa almet / rompi) + ikat pinggang dan dasi
-- [ ] Hijab putih
-- [ ] Sepatu ganti (full hitam)
-- [ ] Alat sholat
-- [ ] Alat mandi
-- [ ] Lilin 1 buah
-- [ ] Sendal swallow Biru (pa) & Merah (pi)
-- [ ] Parfum : Zara Orchid 15ml
-- [ ] Tumbler (disarankan 1l)
-- [ ] Bekal (Nasi, sayur, lauk, dan buah)
-- [ ] Susu ultramilk 200ml rasa bebas, Better 1 buah
-- [ ] Vitamin / suplemen
-- [ ] Obat-obat pribadi
-- [ ] Plastik kresek
-- [ ] Handphone (diberi label nama)
+- [x] Handuk kecil (merk good morning)
+- [x] Topi OSIS
+- [x] Buku dan ATK
+- [x] Seragam kotak-kotak (tanpa almet / rompi) + ikat pinggang dan dasi
+- [x] Sepatu ganti (full hitam)
+- [x] Alat sholat
+- [x] Alat mandi
+- [x] Lilin 1 buah
+- [x] Sendal swallow Biru (pa) & Merah (pi)
+- [x] Parfum : Zara Orchid 15ml
+- [x] Tumbler (disarankan 1l)
+- [x] Bekal (Nasi, sayur, lauk, dan buah)
+- [x] Susu ultramilk 200ml rasa bebas, Better 1 buah
+- [x] Vitamin / suplemen
+- [x] Obat-obat pribadi
+- [x] Plastik keresek
+- [x] Handphone (diberi label nama)
 
 **Tas RANSEL 2**
-- [ ] Kaos kaki putih setengah betis
-- [ ] Hijab putih
-- [ ] Seragam OSIS lengkap (tanpa almet)
-- [ ] Kaos kuning (WAJIB)
-- [ ] Celana training ganti
-- [ ] Hijab coklat
-- [ ] Alat makan plastik + sendok (diberi label nama)
-- [ ] Lotion anti nyamuk
-- [ ] Selimut / sarung
-- [ ] Karpet / tikar (per pleton / organisasi)
-- [ ] Sabun cuci piring + SPONS (per pleton / organisasi)
+- [x] Kaos kaki putih setengah betis
+- [x] Seragam OSIS lengkap (tanpa almet)
+- [x] Kaos kuning (WAJIB)
+- [x] Celana training ganti
+- [x] Alat makan plastik + sendok (diberi label nama)
+- [x] Lotion anti nyamuk
+- [x] Selimut / sarung
+- [x] Karpet / tikar (per pleton / organisasi)
+- [x] Sabun cuci piring + SPONS (per pleton / organisasi)

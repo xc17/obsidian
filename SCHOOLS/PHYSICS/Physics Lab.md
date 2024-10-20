@@ -7,6 +7,7 @@ tags:
   - school
   - science
 ---
+
 ![[WhatsApp Image 2024-10-14 at 22.10.58_9bbca113 2.jpg]]
 
 # PERCOBAAN X
@@ -22,7 +23,7 @@ Data percobaan:
 | --------- | ------- | ----- | -------- | --------------- |
 | 1         | 16g     | 50g   | 36       | 2s              |
 | 2         | 16g     | 100g  | 36       | 2.6s            |
-| 3         | 16g     | 150g  | 36       | 2.2ss           |
+| 3         | 16g     | 150g  | 36       | 2.2s            |
 
 ### Langkah Penyelesaian:
 Kita akan menghitung untuk tiap percobaan: **periode ($T$)**, **frekuensi ($f$)**, **kecepatan sudut ($\omega$)**, **kecepatan linear ($v$)**, **percepatan sentripetal ($a_s$)** menggunakan dua metode, dan **gaya sentripetal ($F_s$)**.
@@ -30,13 +31,10 @@ Kita akan menghitung untuk tiap percobaan: **periode ($T$)**, **frekuensi ($f$)*
 ---
 
 ### **1. Periode $(T)$**:
-Periode ($T$) adalah waktu untuk satu putaran.
+Periode ($T$) = waktu untuk satu putaran.
 $$
 T = \frac{t_{\text{total}}}{n}
 $$
-di mana $t_{\text{total}}$ adalah waktu total dan $n$ adalah jumlah putaran.
-
-Untuk masing-masing percobaan:
 1. **Percobaan 1**:  
    $T_1 = \frac{2}{5} = 0,4 \, \text{s}$
 
@@ -49,12 +47,10 @@ Untuk masing-masing percobaan:
 ---
 
 ### **2. Frekuensi $(f)$**:
-Frekuensi ($f$) adalah jumlah putaran per detik:
+Frekuensi ($f$) = jumlah putaran per detik.
 $$
 f = \frac{1}{T}
 $$
-
-Untuk masing-masing percobaan:
 1. **Percobaan 1**:  
    $f_1 = \frac{1}{0,4} = 2,5 \, \text{Hz}$
 
@@ -67,12 +63,9 @@ Untuk masing-masing percobaan:
 ---
 
 ### **3. Kecepatan Sudut $(\omega)$**:
-Kecepatan sudut ($\omega$) dihitung dengan rumus:
 $$
 \omega = 2\pi f
 $$
-
-Untuk masing-masing percobaan:
 1. **Percobaan 1**:  
    $\omega_1 = 2\pi \times 2,5 \approx 15,71 \, \text{rad/s}$
 
@@ -85,13 +78,11 @@ Untuk masing-masing percobaan:
 ---
 
 ### **4. Kecepatan Linear $(v)$**:
-Kecepatan linear ($v$) dihitung dengan rumus:
 $$
 v = \omega \times R
 $$
-di mana $R$ adalah radius rotasi dalam meter (0,36 m).
+$R$ = 36 cm = 0,36 m
 
-Untuk masing-masing percobaan:
 1. **Percobaan 1**:  
    $v_1 = 15,71 \times 0,36 \approx 5,65 \, \text{m/s}$
 
@@ -104,7 +95,6 @@ Untuk masing-masing percobaan:
 ---
 
 ### **5. Percepatan Sentripetal ($a_s$)**:
-Percepatan sentripetal dapat dihitung dengan dua cara:
 1. Approach 1:
 $$
 a_s = \omega^2 \times R
@@ -114,7 +104,7 @@ $$
 a_s = \frac{v^2}{R}
 $$
 
-#### **Metode 1: Menggunakan $\omega^2 R$**
+#### **Menggunakan $\omega^2 R$**
 1. **Percobaan 1**:  
    $a_{s1} = 15,71^2 \times 0,36 \approx 88,8 \, \text{m/s}^2$
 
@@ -124,7 +114,7 @@ $$
 3. **Percobaan 3**:  
    $a_{s3} = 14,27^2 \times 0,36 \approx 73,47 \, \text{m/s}^2$
 
-#### **Metode 2: Menggunakan $v^2 / R$**
+#### **Menggunakan $v^2 / R$**
 1. **Percobaan 1**:  
    $a_{s1} = \frac{5,65^2}{0,36} \approx 88,70 \, \text{m/s}^2$
 
@@ -137,13 +127,9 @@ $$
 ---
 
 ### **6. Gaya Sentripetal $(F_s)$**:
-Gaya sentripetal dihitung dengan rumus:
 $$
 F_s = m_B \times a_s
 $$
-di mana $m_B$ adalah massa pemberat B dalam kilogram.
-
-Untuk masing-masing percobaan:
 1. **Percobaan 1**: Massa B = 50 g = 0,05 kg  
    $F_{s1} = 0,05 \times 88,8 \approx 4,44 \, \text{N}$
 
@@ -157,11 +143,11 @@ Untuk masing-masing percobaan:
 
 ### **Ringkasan Hasil:**
 
-| Percobaan | T (s)  | f (Hz) | $\omega$ (rad/s) | v (m/s) | $a_s$ (m/s²) | $F_s$ (N) |
-|-----------|--------|--------|------------------|---------|--------------|-----------|
-| 1         | 0,4    | 2,5    | 15,71            | 5,65    | 88,8         | 4,44      |
-| 2         | 0,52   | 1,92   | 12,07            | 4,35    | 52,42        | 5,24      |
-| 3         | 0,44   | 2,27   | 14,27            | 5,14    | 73,47        | 11,02     |
+| Percobaan | T (s) | f (Hz) | $\omega$ (rad/s) | v (m/s) | $a_s$ (m/s²) | $F_s$ (N) |
+| --------- | ----- | ------ | ---------------- | ------- | ------------ | --------- |
+| 1         | 0,4   | 2,5    | 15,71            | 5,65    | 88,8         | 4,44      |
+| 2         | 0,52  | 1,92   | 12,07            | 4,35    | 52,42        | 5,24      |
+| 3         | 0,44  | 2,27   | 14,27            | 5,14    | 73,47        | 11,02     |
 
 ---
 
@@ -184,9 +170,7 @@ Periode ($T$) : waktu yang dibutuhkan untuk satu putaran.
 $$
 T = \frac{t_{\text{total}}}{n}
 $$
-di mana $t_{\text{total}}$ = waktu total dan $n$ = jumlah putaran
-
-Untuk masing-masing percobaan:
+di mana $t_{\text{total}}$ = waktu total dan $n$ = jumlah putaran.
 1. **Percobaan 1**:  
    $T_1 = \frac{2,6}{5} = 0,52 \, \text{s}$
    
@@ -203,8 +187,6 @@ Frekuensi ($f$) : jumlah putaran per detik.
 $$
 f = \frac{1}{T}
 $$
-
-Untuk masing-masing percobaan:
 1. **Percobaan 1**:  
    $f_1 = \frac{1}{0,52} \approx 1,92 \, \text{Hz}$
 
@@ -221,8 +203,6 @@ Untuk masing-masing percobaan:
 $$
 \omega = 2\pi f
 $$
-
-Untuk masing-masing percobaan:
 1. **Percobaan 1**:  
    $\omega_1 = 2\pi \times 1,92 \approx 12,07 \, \text{rad/s}$
 
@@ -240,7 +220,6 @@ $$
 v = \omega \times R
 $$
 
-Untuk masing-masing percobaan:
 1. **Percobaan 1**: Radius = 36 cm = 0,36 m  
    $v_1 = 12,07 \times 0,36 \approx 4,35 \, \text{m/s}$
 
@@ -263,7 +242,7 @@ $$
 a_s = \frac{v^2}{R}
 $$
 
-#### **Metode 1: Menggunakan $\omega^2 R$**
+#### **Menggunakan $\omega^2 R$**
 1. **Percobaan 1**:  
    $a_{s1} = 12,07^2 \times 0,36 \approx 52,42 \, \text{m/s}^2$
 
@@ -273,7 +252,7 @@ $$
 3. **Percobaan 3**:  
    $a_{s3} = 10,49^2 \times 0,43 \approx 47,32 \, \text{m/s}^2$
 
-#### **Metode 2: Menggunakan $v^2 / R$**
+#### **Menggunakan $v^2 / R$**
 1. **Percobaan 1**:  
    $a_{s1} = \frac{4,35^2}{0,36} \approx 52,60 \, \text{m/s}^2$
 
@@ -292,7 +271,7 @@ F_s = m_B \times a_s
 $$
 $m_B$ = massa pemberat B dalam kilogram (50 g = 0,05 kg).
 
-Untuk masing-masing percobaan:
+
 1. **Percobaan 1**:  
    $F_{s1} = 0,05 \times 52,42 \approx 2,62 \, \text{N}$
 

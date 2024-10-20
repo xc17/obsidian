@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bfd974dfd4cedf22",
+        "id": "222478020c295d42",
         "type": "tabs",
         "children": [
           {
-            "id": "068c77f25f3685e7",
+            "id": "b2d58429efb81be6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OSIS/SEKRE 245/Pedoman Administrasi Ekstrakurikuler.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OSIS/SEKRE 245/Pedoman Administrasi Ekstrakurikuler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OSIS/SEKRE 245/Pedoman Administrasi Ekstrakurikuler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OSIS/SEKRE 245/Pedoman Administrasi Ekstrakurikuler.md"
+              }
             }
           },
           {
@@ -134,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,47 +164,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8996797af17a4da",
+  "active": "b2d58429efb81be6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "OSIS/SEKRE 245/Pedoman Administrasi Ekstrakurikuler.md",
+    "DRAWINGS/Ex2024-10-20 22.53.27.excalidraw.md",
+    "OSIS/LDKS 24/Teks Vid LDKS.md",
+    "OSIS/LDKS 24/MY CHECKLISTS.md",
+    "README.md",
+    "assets/Pasted image 20241020232316.png",
+    "assets/Pasted image 20241020232254.png",
+    "assets/Pasted image 20241020231423.png",
+    "assets/Pasted image 20241020230702.png",
+    "assets/Pasted image 20241020230357.png",
+    "assets/Pasted image 20241020230313.png",
+    "SCHOOLS/PHYSICS/Diagram Hukum Newton.md",
+    "SCHOOLS/PHYSICS/Newton's Law.md",
+    "SCHOOLS/PHYSICS/Rotasi & Sentripetal.md",
+    "SCHOOLS/CHEMISTRY/Termokimia 2.md",
+    "assets/Pasted image 20241017112415.png",
+    "assets/Pasted image 20241017112351.png",
+    "assets/Pasted image 20241017110515.png",
+    "assets/Pasted image 20241017110018.png",
+    "SCHOOLS/MATWA/Fungsi Komposisi.md",
+    "SCHOOLS/PHYSICS/Physics Lab.md",
+    "SCHOOLS/MATLAN/Matriks.md",
     "OSIS/LDKS 24/Pembekalan Peserta LDKS 2024.md",
     "OSIS/LDKS 24/TATA TERTIB + Peraturan PENTING.md",
     "OSIS/LDKS 24/Ex2024-10-15 20.45.09.excalidraw.md",
-    "Untitled.md",
-    "OSIS/LDKS 24/MY CHECKLISTS.md",
-    "assets/Pasted image 20241015204936.png",
-    "assets/image_2.png",
-    "assets/image_1.png",
-    "assets/image_0.png",
-    "assets/image.png",
     "OSIS/LDKS 24",
-    "SCHOOLS/CHEMISTRY/Termokimia 2.md",
     "SCHOOLS/CHEMISTRY/Termokimia.md",
-    "assets/WhatsApp Image 2024-10-15 at 07.45.05_e2343f87.jpg",
-    "assets/WhatsApp Image 2024-10-14 at 22.10.58_9bbca113 1.jpg",
-    "assets/WhatsApp Image 2024-10-14 at 22.10.58_9bbca113.jpg",
-    "assets/IMG-20241010-WA0015.jpg",
-    "assets/IMG-20241010-WA0016.jpg",
     "CODE/PROJECT IDEAS.md",
     "CODE/PORTALS.md",
     "CODE/ORGANIPTYC.md",
     "CODE/C++.md",
     "DAYS/2024 Oct 14th - 17.10pm.md",
-    "SCHOOLS/MATWA/Fungsi Komposisi.md",
     "DRAWINGS/Ex - Termokimia 2.md",
     "SCHOOLS/MATWA",
     "DRAWINGS",
     "GKeep/2023-11-10T13_35_14.616+07_00.md",
     "GKeep/2023-11-10T13_35_13.295+07_00.md",
     "GKeep/2023-11-10T13_35_11.661+07_00.md",
-    "GKeep/2023-11-16T08_25_27.491+07_00.md",
-    "GKeep/2023-11-17T08_05_28.531+07_00.md",
-    "GKeep/Dandelion_.md",
-    "GKeep/Demokrasi_.md",
-    "GKeep/Dream.md",
-    "GKeep/Embun Nafas.md",
-    "GKeep/Gita Nuswapada_.md",
-    "GKeep/NAMES.md",
-    "GKeep/Lily of the Valley_.md",
     "GKeep/Assets",
     "GKeep",
     "Excalidraw",

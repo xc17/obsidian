@@ -110,5 +110,6 @@
   "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
   "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-orange-dt",
   "obsidian-prism-theme@@left-sidebar-tab-label-alignment": "pt-tab-label-left-sidebar-center",
-  "obsidian-prism-theme@@tab-header-alignment": "pt-tab-header-left"
+  "obsidian-prism-theme@@tab-header-alignment": "pt-tab-header-left",
+  "obsidian-prism-theme@@pt-status-bar-style": "pt-status-bar-position-fixed"
 }
