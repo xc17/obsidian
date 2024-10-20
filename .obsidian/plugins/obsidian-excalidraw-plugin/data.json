@@ -459,7 +459,7 @@
   "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
-  "openAIAPIToken": "sk-nQVnkOYltJVgwqm5skzbR5w7HldXiwTAC3FcpttbcHT3BlbkFJVLZa2a5jHxL7Rwbn6rA-jUF9vlFEdZKZaO-u7OAOMA",
+  "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultVisionModel": "gpt-4o",
   "openAIDefaultImageGenerationModel": "dall-e-3",

@@ -121,7 +121,7 @@
   },
   "LLMProviderOptionsKeysHashed": {
     "whisper.api_key": "__@#key_prefix#@__",
-    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-proj-Y0zsXHk-eE9Xx9L2cu9lxh9edsMx1n1mwXbalSIHF0tCAq3Kq2VvQ05x0OfWiebcidzqFc5cE9T3BlbkFJIAzhEbJe3TBjUfynjTMSfBhziQRHlFx5Z35nqGfnb7tfJRqgHDsx9f4M8K6yKrUku0KuicBLUA"
+    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__"
   },
-  "api_key_encrypted": "__@#key_prefix#@__sk-proj-Y0zsXHk-eE9Xx9L2cu9lxh9edsMx1n1mwXbalSIHF0tCAq3Kq2VvQ05x0OfWiebcidzqFc5cE9T3BlbkFJIAzhEbJe3TBjUfynjTMSfBhziQRHlFx5Z35nqGfnb7tfJRqgHDsx9f4M8K6yKrUku0KuicBLUA"
+  "api_key_encrypted": "__@#key_prefix#@__"
 }
